@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amir Zikry
 - 👀 I’m interested in the software development and enthusiastic about Artificial Intelligence
 - 🌱 I’m currently a first year compsci student in UTBM, France
-- 💞️ I’m currenctly looking for a 23 weeks long internship
+- 💞️ I’m currenctly looking for a 23 weeks long internship starting the first September 2025
 - 📫 How to reach me
   email:amirzikry@gmail.com
   linkedin: https://www.linkedin.com/in/amir-zikry-bin-rosli-61239328a/
