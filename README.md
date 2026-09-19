@@ -19,7 +19,7 @@
 
 - 🌱 **Learning & exploring:** Artificial Intelligence, ML model deployment, and Software Development.
 - 💼 **Looking for:** End-of-study internship from February 2027 - July 2027 in **Data Science, AI, and Software Engineering**.
-- 💬 **Ask me about:** AI ,Full-stack development, and Machine Learning models.
+- 💬 **Ask me about:** AI, Full-stack development, and Machine Learning models.
 
 ---
 
