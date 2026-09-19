@@ -29,7 +29,7 @@
 
 <hr>
 
-![snake gif](https://github.com/AmirZikry/AmirZikry/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/AmirZikry/AmirZikry/output/github-contribution-grid-snake.svg)
 
 <!---
 AmirZikry/AmirZikry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
