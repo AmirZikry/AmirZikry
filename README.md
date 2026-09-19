@@ -6,9 +6,8 @@
 - 👀 I’m interested in **software development and enthusiastic about Artificial Intelligence**
 - 🌱 I’m a **final year student specializing in Data Science and Artificial Intelligence in UTBM, France**
 
+## Contact me! : 
 <div align="center">
-  <div>  
-  <h2><b>Contact me! :</b></h2>
   <a href="amirzikry@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -16,7 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   </div>
-</div>
 
 ## 🛠️ Languages and Tools
 
@@ -30,6 +28,8 @@
 </p>
 
 <hr>
+
+![snake gif](https://github.com/AmirZikry/AmirZikry/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 AmirZikry/AmirZikry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
