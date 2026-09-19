@@ -8,7 +8,7 @@
 
 ## Contact me! : 
 <div align="center">
-  <a href="amirzikry@gmail.com">
+  <a href="mailto:amirzikry@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/amir-zikry-bin-rosli-61239328a/" target="_blank">
